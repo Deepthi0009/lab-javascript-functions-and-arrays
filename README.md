@@ -49,6 +49,7 @@ const words = ['George', 'Alice', 'Alex', 'John', 'Infanta', 'Xavior', 'LourdhAn
 
 Calculating a sum can be as simple as iterating over an array and adding each of the elements.
 
+
 John spent his money on buying groceries, he wants to find the net amount that he had spent in the super market.
 
 Declare a function named `netPrice` that takes an array of prices as an argument, and returns the sum of all items in the array. Later in the course we'll learn how to do this by using the `reduce` array method, which will make your work significantly easier. For now, let's practice _"declarative"_ way  - adding values, using loops.
